@@ -26,6 +26,6 @@ figcaption{
   font-size: 8px;
 }
 
-p# {
-  color: blue;
+p#featured-property {
+  width: 800px;
 }
