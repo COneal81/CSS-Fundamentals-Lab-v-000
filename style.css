@@ -26,7 +26,7 @@ figcaption{
   font-size: 8px;
 }
 
-section id > p {
+section id="featured-property" > p {
   text-align: left;
   width: 800px;
 }
