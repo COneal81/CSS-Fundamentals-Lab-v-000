@@ -39,3 +39,9 @@ details > div{
   display: block;
   float: left;
 }
+
+div{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
